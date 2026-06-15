@@ -20,7 +20,7 @@
 
 ## ◇ &nbsp;Who we are
 
-**Fahrenheit Research** builds the infrastructure layer for autonomous agents — the memory, routing, transport, and orchestration primitives that let AI systems reason, remember, and act reliably over long horizons. Around that core we ship complete agentic products that put those primitives to work.
+**Fahrenheit Research** builds the infrastructure layer for autonomous agents: the memory, routing, transport, and orchestration primitives that let AI systems reason, remember, and act reliably over long horizons. Around that core we ship complete agentic products that put those primitives to work.
 
 Autonomous. Adaptive. Aligned.
 
@@ -36,7 +36,7 @@ Modular, composable building blocks — designed to power **Hermes Agent**, or a
 
 ### AgentBrain
 
-A temporal entity-memory layer. A knowledge graph where every relationship carries a validity window, so agents can answer *what was true, and when* — not just what's true now.
+A temporal entity-memory layer. A knowledge graph where every relationship carries a validity window, so agents can answer *what was true, and when*, not just what's true now.
 
 [`→ Explore`](https://github.com/fahrenheit-research/AgentBrain)
 
@@ -45,7 +45,7 @@ A temporal entity-memory layer. A knowledge graph where every relationship carri
 
 ### AgentMomento
 
-A two-stage, category-first skill router. Classifies the task, then runs BM25 retrieval within the category — cutting context pollution and lifting task success.
+A two-stage, category-first skill router. Classifies the task, then runs BM25 retrieval within the category, cutting context pollution and lifting task success.
 
 [`→ Explore`](https://github.com/fahrenheit-research/AgentMomento)
 
@@ -54,7 +54,7 @@ A two-stage, category-first skill router. Classifies the task, then runs BM25 re
 
 ### AgentWire
 
-A compact wire protocol for agent-to-agent messaging. Typed envelopes and tiered encoding profiles that shed the bytes — and tokens — that JSON wastes.
+A compact wire protocol for agent-to-agent messaging. Typed envelopes and tiered encoding profiles that shed the bytes (and tokens) that JSON wastes.
 
 [`→ Explore`](https://github.com/fahrenheit-research/AgentWire)
 
@@ -66,7 +66,7 @@ A compact wire protocol for agent-to-agent messaging. Typed envelopes and tiered
 
 ## ◇ &nbsp;Products
 
-### Argus &nbsp;—&nbsp; the watchful agent that grows with you
+### Argus &nbsp;·&nbsp; the watchful agent that grows with you
 
 A self-hosted, multi-provider AI agent that lives in your terminal. It talks back through your speakers, schedules its own work, remembers across sessions, reaches you through Telegram, and fans complex prompts out to a parallel multi-agent swarm. The full Agent Stack, assembled into one autonomous companion.
 
