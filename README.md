@@ -28,7 +28,7 @@ Autonomous. Adaptive. Aligned.
 
 ## ◇ &nbsp;The Agent Stack
 
-Modular, composable building blocks — designed to power **Hermes Agent**, or any autonomous system you're building.
+Modular, composable building blocks, designed to power **Hermes Agent** or any autonomous system you're building.
 
 <table>
 <tr>
