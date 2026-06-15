@@ -2,50 +2,86 @@
 
 ![Fahrenheit Research](assets/banner.jpeg)
 
-### Pioneering the future of **Agentic AI**
+<br>
 
-*Autonomous intelligence · Adaptive systems · Machine reasoning*
+**RESEARCHING THE AGENTIC WORLD&nbsp;&nbsp;·&nbsp;&nbsp;BUILDING INTELLIGENCE THAT ACTS**
 
-[![Website](https://img.shields.io/badge/Website-f--r.co-D4F23C?style=for-the-badge&logo=safari&logoColor=black)](https://f-r.co)
-[![Focus](https://img.shields.io/badge/Focus-Agentic_AI-D4F23C?style=for-the-badge&logoColor=black)](https://github.com/fahrenheit-research)
-![Stack](https://img.shields.io/badge/Stack-Python_·_TypeScript-1A1A1A?style=for-the-badge)
+`DATA.`&nbsp;&nbsp;`SYSTEMS.`&nbsp;&nbsp;`INSIGHT.`
+
+<br>
+
+[![Website](https://img.shields.io/badge/f--r.co-D4F23C?style=for-the-badge&logoColor=000000&label=WEB&labelColor=0D0D0D)](https://f-r.co)
+[![Focus](https://img.shields.io/badge/AGENTIC_AI-0D0D0D?style=for-the-badge&labelColor=0D0D0D)](https://github.com/fahrenheit-research)
+[![Stack](https://img.shields.io/badge/PYTHON_·_TYPESCRIPT-0D0D0D?style=for-the-badge&labelColor=0D0D0D)](https://github.com/fahrenheit-research)
 
 </div>
 
 ---
 
-## 🔥 What we build
+## ◇ &nbsp;Who we are
 
-We build the **infrastructure layer for autonomous agents** — the memory, routing, transport, and orchestration primitives that let AI agents reason, remember, and act reliably over long horizons. Around that core we ship full agentic products: a terminal-native assistant, a lead-intelligence platform, and a capital-matching engine.
+**Fahrenheit Research** builds the infrastructure layer for autonomous agents — the memory, routing, transport, and orchestration primitives that let AI systems reason, remember, and act reliably over long horizons. Around that core we ship complete agentic products that put those primitives to work.
+
+Autonomous. Adaptive. Aligned.
 
 ---
 
-## 🧠 The Agent Stack
+## ◇ &nbsp;The Agent Stack
 
-> Modular building blocks designed to power **Hermes Agent** — or any autonomous system.
+Modular, composable building blocks — designed to power **Hermes Agent**, or any autonomous system you're building.
 
-| Project | What it does |
-| :-- | :-- |
-| **[AgentBrain](https://github.com/fahrenheit-research/AgentBrain)** 🧠 | Production-grade local memory layer — temporal knowledge graph, hierarchical memory tiers (working → episodic → semantic → archive), background synthesis, and Obsidian export. |
-| **[AgentMomento](https://github.com/fahrenheit-research/AgentMomento)** 🎯 | Two-stage, category-first skill router. Classifies the task, then runs BM25 retrieval within the category — killing context pollution and boosting agent reliability. |
-| **[AgentWire](https://github.com/fahrenheit-research/AgentWire)** 🔌 | Wire protocol for agents — efficient context encoding, compression, and envelopes for moving state between agents and runs. |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🚀 Products
+### AgentBrain
 
-| Project | What it does |
-| :-- | :-- |
-| **[Argus](https://github.com/fahrenheit-research/Argus)** 👁️ | A watchful, self-hosted AI agent that lives in your terminal — voice mode, Telegram gateway, HTTP/WebSocket API, cron scheduler, local vector memory, and a multi-agent swarm. |
-| **Iris** 📈 *(private)* | Lead generation & enrichment platform — Next.js + FastAPI, Supabase, and Redis for intelligent prospecting. |
-| **Ninth** 💸 *(private)* | AI capital-matching engine — extracts every signal from a pitch deck (text, charts, tables, image-locked numbers), scores it on a deterministic rubric, and matches founders to investors via vector similarity + structured filters. |
+A temporal entity-memory layer. A knowledge graph where every relationship carries a validity window, so agents can answer *what was true, and when* — not just what's true now.
+
+[`→ Explore`](https://github.com/fahrenheit-research/AgentBrain)
+
+</td>
+<td width="33%" valign="top">
+
+### AgentMomento
+
+A two-stage, category-first skill router. Classifies the task, then runs BM25 retrieval within the category — cutting context pollution and lifting task success.
+
+[`→ Explore`](https://github.com/fahrenheit-research/AgentMomento)
+
+</td>
+<td width="33%" valign="top">
+
+### AgentWire
+
+A compact wire protocol for agent-to-agent messaging. Typed envelopes and tiered encoding profiles that shed the bytes — and tokens — that JSON wastes.
+
+[`→ Explore`](https://github.com/fahrenheit-research/AgentWire)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◇ &nbsp;Products
+
+### Argus &nbsp;—&nbsp; the watchful agent that grows with you
+
+A self-hosted, multi-provider AI agent that lives in your terminal. It talks back through your speakers, schedules its own work, remembers across sessions, reaches you through Telegram, and fans complex prompts out to a parallel multi-agent swarm. The full Agent Stack, assembled into one autonomous companion.
+
+[`→ Explore Argus`](https://github.com/fahrenheit-research/Argus)
 
 ---
 
 <div align="center">
 
-### Let's build the autonomous future together.
+<br>
 
-[![Visit f-r.co](https://img.shields.io/badge/→_Explore_our_work-f--r.co-D4F23C?style=for-the-badge&logoColor=black)](https://f-r.co)
+**FAHRENHEIT RESEARCH**
+
+Intelligence that perceives. That reasons. That acts.
+
+[![Explore](https://img.shields.io/badge/EXPLORE_OUR_WORK-f--r.co-D4F23C?style=for-the-badge&labelColor=0D0D0D)](https://f-r.co)
 
 </div>
-
-<!-- profile -->
