@@ -1,14 +1,14 @@
 <div align="center">
 
-# ⟨ ◇ ⟩ &nbsp; Fahrenheit Research
+![Fahrenheit Research](assets/banner.jpeg)
 
 ### Pioneering the future of **Agentic AI**
 
 *Autonomous intelligence · Adaptive systems · Machine reasoning*
 
-[![Website](https://img.shields.io/badge/Website-f--r.co-FFC247?style=for-the-badge&logo=safari&logoColor=black)](https://f-r.co)
-[![Focus](https://img.shields.io/badge/Focus-Agentic_AI-FF38D1?style=for-the-badge)](https://github.com/fahrenheit-research)
-![Stack](https://img.shields.io/badge/Stack-Python_·_TypeScript-FFC247?style=for-the-badge)
+[![Website](https://img.shields.io/badge/Website-f--r.co-D4F23C?style=for-the-badge&logo=safari&logoColor=black)](https://f-r.co)
+[![Focus](https://img.shields.io/badge/Focus-Agentic_AI-D4F23C?style=for-the-badge&logoColor=black)](https://github.com/fahrenheit-research)
+![Stack](https://img.shields.io/badge/Stack-Python_·_TypeScript-1A1A1A?style=for-the-badge)
 
 </div>
 
@@ -44,6 +44,6 @@ We build the **infrastructure layer for autonomous agents** — the memory, rout
 
 ### Let's build the autonomous future together.
 
-[![Visit f-r.co](https://img.shields.io/badge/→_Explore_our_work-f--r.co-FF38D1?style=for-the-badge)](https://f-r.co)
+[![Visit f-r.co](https://img.shields.io/badge/→_Explore_our_work-f--r.co-D4F23C?style=for-the-badge&logoColor=black)](https://f-r.co)
 
 </div>
